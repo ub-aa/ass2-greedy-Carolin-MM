@@ -1,0 +1,1 @@
+from euleralg import euler
